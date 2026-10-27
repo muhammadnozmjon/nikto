@@ -1,5 +1,5 @@
 nikto
-=====
+=====https://github.com/sullo/nikto.git
 [![alt text](https://cirt.net/wp-content/uploads/2025/12/patreon.png "Become a patron of Nikto!")](https://www.patreon.com/sullo)
 
 
